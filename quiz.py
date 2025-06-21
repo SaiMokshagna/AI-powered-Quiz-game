@@ -11,7 +11,7 @@ import os
 
 # --- Constants ---
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-API_KEY = "AIzaSyAa20OkB7cfPWUMH3tVNoyETZjidpYyN2E"  # User's Gemini API key
+API_KEY = "aAIzaSyAa20OkB7cfPWUMH3tVNoyETZjidpYyN2E"  # User's Gemini API key
 USE_API_QUESTIONS = True  # Set to False to use only placeholder questions for faster loading
 
 # --- Asset Path Helper ---
